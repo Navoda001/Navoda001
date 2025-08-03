@@ -38,8 +38,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 <p align="right" > Created by <a href="https://github.com/Navoda001">Navoda Chathurya</a></p>
-![Navoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navoda001&show_icons=true&theme=radical)
-
+ 
 <!--
 **Navoda001/Navoda001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
