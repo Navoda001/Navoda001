@@ -1,12 +1,20 @@
 # 👋 Hello, I'm Navoda Chathurya
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Developer;SpringBoot+Developer;ASP.NET+Developer;Frontend+Developer;Tech+Explorer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=34d399&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Developer;SpringBoot+Developer;ASP.NET+Developer;Frontend+Developer;Tech+Explorer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="300" />
+  <img src="https://github.com/Navoda001/Navoda001/blob/main/pic/Profile.jpg" width="280" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 20px 40px rgba(99, 102, 241, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
+
+  <!-- Profile decoration -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=flat-square&logo=code&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Location-Sri%20Lanka-red?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
 </div>
+
 
 ---
 
