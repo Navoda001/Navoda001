@@ -24,7 +24,7 @@
 const navoda = {
     education: "Undergraduate @ University of Moratuwa",
     currentFocus: ["Firebase", "Flutter", "Full Stack Development"],
-    expertise: ["Java", "C", "React", "MySQL"],
+    expertise: ["Java", "C", "React", "Spring Boot", "MySQL"],
     portfolio: "https://navoda.dev/",
     email: "navodachathurya2001@gmail.com",
     motto: "Code with passion, build with purpose"
@@ -36,7 +36,7 @@ const navoda = {
 - 🎓 Undergraduate student at the University of Moratuwa
 - 🔥 Currently mastering **Firebase** and **Flutter**
 - 👨‍💻 All of my projects are available at [navoda.dev](https://navoda.dev/)
-- 💡 Always eager to discuss **Java**, **C**, **React**, and **MySQL**
+- 💡 Always eager to discuss **Java**, **C**, **React**, **Spring Boot**, and **MySQL**
 - 📧 Reach out: **navodachathurya2001@gmail.com**
 
 ## 🌐 Let's Connect
