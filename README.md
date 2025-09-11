@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Navoda001/Navoda001/blob/main/pic/Profile.jpg" width="280" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 20px 40px rgba(99, 102, 241, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" />
-
   <!-- Profile decoration -->
   <p>
     <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square&logo=checkmarx&logoColor=white" alt="Status" />
