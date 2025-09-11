@@ -1,5 +1,6 @@
+<div align="center">
 # 👋 Hello, I'm Navoda Chathurya
-
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=34d399&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Developer;SpringBoot+Developer;ASP.NET+Developer;Frontend+Developer;Tech+Explorer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
