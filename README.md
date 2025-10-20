@@ -22,7 +22,7 @@
 const navoda = {
     education: "Undergraduate @ University of Moratuwa",
     currentFocus: ["Firebase", "Flutter", "Full Stack Development"],
-    expertise: ["Java", "C", "React", "Spring Boot", "MySQL"],
+    expertise: ["Java", "C", "React", "Spring Boot", "ASP.NET Core", "MySQL"],
     portfolio: "https://navoda.dev/",
     email: "navodachathurya2001@gmail.com",
     motto: "Code with passion, build with purpose"
@@ -34,7 +34,7 @@ const navoda = {
 - 🎓 Undergraduate student at the University of Moratuwa
 - 🔥 Currently mastering **Firebase** and **Flutter**
 - 👨‍💻 All of my projects are available at [navoda.dev](https://navoda.dev/)
-- 💡 Always eager to discuss **Java**, **C**, **React**, **Spring Boot**, and **MySQL**
+- 💡 Always eager to discuss **Java**, **C**, **React**, **Spring Boot**, **ASP.NET Core**, and **MySQL**
 - 📧 Reach out: **navodachathurya2001@gmail.com**
 
 ## 🌐 Let's Connect
@@ -77,7 +77,8 @@ const navoda = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
